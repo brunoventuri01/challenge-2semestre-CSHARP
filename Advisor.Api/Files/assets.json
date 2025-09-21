@@ -1,0 +1,9 @@
+[
+  { "Codigo":"TESOURO_SELIC", "Nome":"Tesouro Selic 2027", "Classe":0, "Risco":0.05, "Liquidez":0.95, "RetornoEsperado":0.11, "ESG": false },
+  { "Codigo":"CDB_DI", "Nome":"CDB Liquidez Diária", "Classe":0, "Risco":0.07, "Liquidez":0.90, "RetornoEsperado":0.115, "ESG": false },
+  { "Codigo":"BOVA11", "Nome":"ETF Ibovespa", "Classe":1, "Risco":0.60, "Liquidez":0.90, "RetornoEsperado":0.12, "ESG": false },
+  { "Codigo":"SMALL11", "Nome":"ETF Small Caps", "Classe":1, "Risco":0.75, "Liquidez":0.70, "RetornoEsperado":0.15, "ESG": false },
+  { "Codigo":"XPLG11", "Nome":"FII Logístico", "Classe":2, "Risco":0.35, "Liquidez":0.70, "RetornoEsperado":0.12, "ESG": false },
+  { "Codigo":"OURO", "Nome":"Ouro", "Classe":5, "Risco":0.40, "Liquidez":0.80, "RetornoEsperado":0.08, "ESG": true },
+  { "Codigo":"DOLAR", "Nome":"Dólar", "Classe":4, "Risco":0.30, "Liquidez":0.90, "RetornoEsperado":0.06, "ESG": false }
+]

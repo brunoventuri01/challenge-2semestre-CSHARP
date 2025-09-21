@@ -1,0 +1,6 @@
+@Advisor.Api_HostAddress = http://localhost:5098
+
+GET {{Advisor.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
